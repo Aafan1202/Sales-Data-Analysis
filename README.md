@@ -23,13 +23,13 @@ This project focuses on analyzing sales data using Python to identify customer p
 * **Jupyter Notebook** – Interactive analysis
 
 ## 📂 Project Structure
-
+```
 Sales-Data-Analysis/
 │
 ├── EDA.ipynb
 ├── Sales_Data.csv
 └── README.md
-
+```
 ## 📁 Dataset
 
 The project uses `Sales_Data.csv`, which contains sales-related information used to explore customer demographics, purchasing behavior, and product categories.
